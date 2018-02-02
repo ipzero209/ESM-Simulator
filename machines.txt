@@ -1,0 +1,10 @@
+asst-pc
+cfo-pc
+kiosk-pc
+share-srvr
+desk1-pc
+desk2-pc
+desk3-pc
+desk4-pc
+admin-pc
+guest-pc
