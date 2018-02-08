@@ -29,3 +29,5 @@ This project consists of the following files:
         print "Sent:\n\n" + logstring`
         
         
+## Configuring Panorama to Recieve Logs
+For instructions on configuring a Log Ingestion Profile, see   https://www.paloaltonetworks.com/documentation/80/pan-os/web-interface-help/panorama-web-interface/panorama-log-ingestion-profile
